@@ -1,0 +1,23 @@
+
+		Billing Tool
+
+		SE Student
+		Phone No. 9082324233 
+		Email:abcxyz@gmail.com
+
+===============================================
+Customer Name: hghf
+Ph no: gfhgf
+Bill No. 19263553			Date: 19/04/2023
+===============================================
+Product Name		QTY		Price	Discount
+===============================================
+        
+ mobile		200		Rs.2000000.0	10%
+===============================================
+Total Sales(A)			Rs.2000000.0
+Total sgst(9%)			Rs.180000.0
+Total cgst(9%)			Rs.180000.0
+Total gst(18%)(B)			Rs.360000.0
+Total Invoice Amount(A+B)			Rs.2360000.0 
+        

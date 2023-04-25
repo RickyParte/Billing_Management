@@ -1,0 +1,23 @@
+
+		Billing Tool
+
+		SE Student
+		Phone No. 9082324233 
+		Email:abcxyz@gmail.com
+
+===============================================
+Customer Name: ffdfs
+Ph no: r
+Bill No. 19256979			Date: 19/04/2023
+===============================================
+Product Name		QTY		Price	Discount
+===============================================
+        
+ range		1		Rs.678900.0	57%
+===============================================
+Total Sales(A)			Rs.678900.0
+Total sgst(9%)			Rs.61101.0
+Total cgst(9%)			Rs.61101.0
+Total gst(18%)(B)			Rs.122202.0
+Total Invoice Amount(A+B)			Rs.801102.0 
+        
